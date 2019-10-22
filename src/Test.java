@@ -3,6 +3,9 @@ public class Test {
         print();
     }
 
+    /**
+     * Prints "Hello World" on screen
+     */
     private static void print() {
         System.out.println("Hello World");
     }
